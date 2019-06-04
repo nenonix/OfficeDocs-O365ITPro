@@ -157,7 +157,7 @@ To give access to the email messages, calendar, tasks, and contacts of the forme
 9. Click **Finish**.
     
 > [!TIP]
-> If you want to import or restore only a few items from an Outlook Data File (.pst), you can open the Outlook Data File, and then, in the navigation pane, click and drag the items from Outlook Data File folders to your existing Outlook folders. 
+> If you want to import or restore only a few items from an Outlook Data File (.pst), you can open the Outlook Data File. Then, in the navigation pane, click and drag the items from Outlook Data File folders to your existing Outlook folders. 
   
   
 ## Related Topics
